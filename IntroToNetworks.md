@@ -79,4 +79,3 @@ Take advantage of these resources to deepen your understanding of computer netwo
 
 ---
 
-Feel free to create similar README files for other topics covered in the Computer Networking Fundamentals repository, adapting the structure and including relevant explanations and resources specific to each topic.
