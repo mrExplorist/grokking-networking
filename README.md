@@ -10,7 +10,6 @@ Welcome to the **Computer Networking Fundamentals** repository! This repository 
   - [Topics Covered](#topics-covered)
   - [Getting Started](#getting-started)
   - [Contributing](#contributing)
-  - [License](#license)
   - [Additional Resources](#additional-resources)
 
 ## Introduction
@@ -23,7 +22,7 @@ This repository aims to guide you through the core concepts of computer networki
 
 The **Computer Networking Fundamentals** repository covers a wide range of topics, including:
 
-- Introduction to computer networks
+- [Introduction to computer networks](/IntroToNetworks.md)
 - Network topologies and architectures
 - Network protocols and models (TCP/IP, OSI)
 - IP addressing and subnetting
