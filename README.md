@@ -72,10 +72,6 @@ Contributions to this repository are highly encouraged. If you have any correcti
 
 Your contributions will help make this repository a more valuable resource for learners.
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the contents of this repository, subject to the terms and conditions of the license.
-
 ---
 
 We hope you find the **Computer Networking Fundamentals** repository useful in your journey to master the basics of computer networking. Remember to practice and experiment with the concepts you learn to solidify your understanding. Enjoy exploring the fascinating world of computer networks and their endless possibilities!
